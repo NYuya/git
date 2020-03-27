@@ -27,7 +27,7 @@ function getJShand(){
         hand_name = "パー";
     }
  
-    return hand;
+    return hand_name;
 }
  
 // ユーザの手とJavaScriptのじゃんけんの手を比べる関数
